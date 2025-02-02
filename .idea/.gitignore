@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# JetBrains IDE (IntelliJ, WebStorm, etc.)
+.idea/
+*.iml
+
+# Node.js (si applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+*.log
+logs/
